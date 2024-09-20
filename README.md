@@ -5,19 +5,19 @@ This repository contains a detailed and interactive **Pizza Sales Dashboard** th
 ## 💻 Technologies Used
 
 - **Tool:** Power BI (or any visualization tool you used)
-- **Languages:** SQL, Python (for data extraction/processing)
+- **Languages:** SQL (for data extraction/processing)
 - **Data Source:** Dataset (https://drive.google.com/file/d/1vnUQKAX1cEcYF05QQ-hm8wv0zMCrsjIb/view?usp=sharing)
 
 ## 📊 Dashboard Overview
 
 This project visualizes pizza sales data using an interactive dashboard.
 
-![Pizza Sales Dashboard](https://drive.google.com/file/d/1e4Q5OePn5NCu7_w3goix2ShucEJbKU99/view?usp=sharing)
+![Pizza Sales Dashboard](Dashboard.png)
 
 The Pizza Sales Dashboard showcases the following key insights:
 
-1. **Total Revenue:** $817.86K  
-2. **Average Order Value (AOV):** $38.31  
+1. **Total Revenue:** 817.86K  
+2. **Average Order Value (AOV):** 38.31  
 3. **Total Pizzas Sold:** 49,574  
 4. **Total Orders:** 21,350  
 5. **Average Pizzas Per Order:** 2  
