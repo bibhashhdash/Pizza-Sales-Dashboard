@@ -6,7 +6,7 @@ This repository contains a detailed and interactive **Pizza Sales Dashboard** th
 
 - **Tool:** Power BI (or any visualization tool you used)
 - **Languages:** SQL (for data extraction/processing)
-- **Data Source:** Dataset (https://drive.google.com/file/d/1vnUQKAX1cEcYF05QQ-hm8wv0zMCrsjIb/view?usp=sharing)
+- **Data Source:** Dataset (https://docs.google.com/spreadsheets/d/1vHfCU3ge6D-pp3KnYleE9NB6iw7Zbpu_/edit?usp=sharing&ouid=116807343162329608578&rtpof=true&sd=true)
 
 ## 📊 Dashboard Overview
 
